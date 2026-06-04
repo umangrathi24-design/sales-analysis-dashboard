@@ -1,6 +1,5 @@
 📊 Sales Analysis Dashboard
 Overview
-
 This project analyzes sales data to uncover trends, measure business performance, and provide actionable insights. The dashboard helps stakeholders monitor key metrics such as revenue, profit, sales growth, and regional performance.
 
 Objectives
@@ -8,8 +7,9 @@ Analyze sales performance across different regions.
 Identify top-selling products and categories.
 Track revenue and profit trends over time.
 Provide data-driven business insights.
-Tools Used
 
+
+Tools & Technologies
 Power BI
 Microsoft Excel
 SQL
