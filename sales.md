@@ -10,6 +10,7 @@ Provide data-driven business insights.
 
 
 Tools & Technologies
+
 Power BI
 Microsoft Excel
 SQL
